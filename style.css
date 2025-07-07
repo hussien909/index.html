@@ -1,0 +1,19 @@
+.CoolText {
+    color: blue;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 1cm;
+    background-color: lightblue;
+    padding: 0% 10px
+}
+
+
+.CoolButton {
+    box-shadow: inset 0 0 10px rgba(0, 0, 255, 0.5);
+    background-color: lightblue;
+    color: black;
+    border: 2px solid blue;
+    padding: 10px 20px;
+    font-size: 1.2em;
+    cursor: pointer;
+}
